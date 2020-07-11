@@ -1,0 +1,11 @@
+El conjunto de cadenas sobre Σ={0,1} a todo 00 le sigue un 1
+abcdef
+01
+a
+acb
+bcb
+cdc
+dfe
+ecb
+fff
+bce

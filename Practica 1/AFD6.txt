@@ -1,0 +1,10 @@
+Inicia con 00 y termina con 1
+abcde
+01
+a
+abd
+bcd
+cce
+ddd
+ece
+e

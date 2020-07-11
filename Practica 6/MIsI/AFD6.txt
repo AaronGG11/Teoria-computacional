@@ -1,0 +1,10 @@
+Inicia con 00 y termina con 1
+a,b,c,d,e
+0,1
+a
+e
+a,b,d
+b,c,d
+c,c,e
+d,d,d
+e,c,e

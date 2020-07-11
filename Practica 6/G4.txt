@@ -1,0 +1,10 @@
+Tupla Gramatica (V,T,P,S)
+V = {S, A, B, C, D}
+T = {a, b, d}
+S = S
+Producciones
+S -> ABaC | ABa | BaC | AaC | a | Aa | Ba | aC
+A -> BC | B | C
+B -> b 
+C -> D
+D -> d

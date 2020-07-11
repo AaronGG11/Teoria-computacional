@@ -1,0 +1,9 @@
+Tupla Gramatica (V,T,P,S)
+V = {S,A,B,C,D}
+T = {a,b,d}
+S = S
+Producciones
+S -> Aa | B | D
+A -> aA | bA | B
+B -> b
+C -> abd

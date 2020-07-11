@@ -1,0 +1,11 @@
+El conjunto de cadenas sobre Σ={0,1} que empiezan con 01, termina en 01 o ambas
+a,b,c,d,e,f
+0,1
+a
+c,f
+a,b,d
+b,e,c
+c,c,c
+d,e,d
+e,e,f
+f,e,d

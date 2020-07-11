@@ -1,0 +1,10 @@
+V = {a,b,c,d,e,f}
+T = {0,1,ε}
+S = a
+Producciones
+a -> 0b | 1d
+b -> 0e | 1c
+c -> 0c | 1c | ε
+d -> 0e | 1d
+e -> 0e | 1f
+f -> 0e | 1d | ε

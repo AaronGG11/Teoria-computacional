@@ -1,0 +1,18 @@
+Este autómata simula el comportamiento de una máquina expendedora, con precio $8 , devolverá el dinero  si no se a introducido el dinero completo y asi se solicita, y regresara el cambio cuando se introduzca  más dinero al costo del producto.
+abcdefghijklm
+15sd
+a
+abfaa
+bcgba
+cdhca
+deida
+efjea
+fgkfa
+ghlga
+himha
+iiiai
+jjjbj
+kkkck
+llldl
+mmmem
+ai

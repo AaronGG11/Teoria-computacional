@@ -1,0 +1,12 @@
+AFD que identifique las palabras de un diccionario en inglés que contengan a,e,i,o,u en ese orden
+abcdefg
+aeioubcdfghjklmnpqrstvwxyz
+a
+abggggaaaaaaaaaaaaaaaaaaaaa
+bbcgggbbbbbbbbbbbbbbbbbbbbb
+cgcdggccccccccccccccccccccc
+dggdegddddddddddddddddddddd
+egggefeeeeeeeeeeeeeeeeeeeee
+fbgggffffffffffffffffffffff
+ggggggggggggggggggggggggggg
+f

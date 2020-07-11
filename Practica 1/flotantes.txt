@@ -1,0 +1,12 @@
+AFD que acepte números de punto flotante del lenguaje C
+abcdefg
++-.0123456789
+a
+abdcaaaaaaaaaa
+bffceeeeeeeeee
+cfffgggggggggg
+dffceeeeeeeeee
+effceeeeeeeeee
+ffffffffffffff
+gfffgggggggggg
+aeg

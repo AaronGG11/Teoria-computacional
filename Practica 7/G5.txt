@@ -1,0 +1,11 @@
+Gramática G = {V, T, P, S}
+Variables V = {I, A, B, C, D, E}
+Terminales T = {a, b}
+Símbolo inicial S = I 
+Producciones
+I -> aAa | bBb | aa | bb
+A -> a | CDE | CE | DE
+B -> b | CDE | CE | DE 
+C -> CDE | CE | DE
+D -> a | b | ab | CDE | CE | DE
+

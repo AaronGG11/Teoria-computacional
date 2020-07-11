@@ -1,0 +1,11 @@
+El conjunto de cadenas sobre Σ={0,1} a todo 00 le sigue un 1
+a,b,c,d,e,f
+0,1
+a
+b,c,e
+a,c,b
+b,c,b
+c,d,c
+d,f,e
+e,c,b
+f,f,f
